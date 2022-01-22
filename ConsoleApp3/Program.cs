@@ -8,6 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello Montilivi!");
             Console.WriteLine("Estic aprenent a utilitzar GitHub");
+            //faig una altra prova
         }
     }
 }
