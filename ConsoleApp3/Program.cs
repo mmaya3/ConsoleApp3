@@ -12,6 +12,8 @@ namespace ConsoleApp3
             //faig una altra prova
             // prova final
            // faig la prova final
+            
+            // canvis 2
         }
     }
 }
