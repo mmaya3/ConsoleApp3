@@ -1,4 +1,5 @@
 //Programa fet per Miquel
+// dimarts 25 de gener
 using System;
 
 namespace ConsoleApp3
