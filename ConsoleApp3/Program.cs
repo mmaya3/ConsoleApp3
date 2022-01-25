@@ -1,4 +1,5 @@
-﻿using System;
+//Programa fet per Miquel
+using System;
 
 namespace ConsoleApp3
 {
@@ -10,6 +11,7 @@ namespace ConsoleApp3
             Console.WriteLine("Estic aprenent a utilitzar GitHub");
             //faig una altra prova
             // prova final
+           // faig la prova final
         }
     }
 }
