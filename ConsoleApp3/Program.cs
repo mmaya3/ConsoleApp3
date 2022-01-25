@@ -1,4 +1,5 @@
-﻿using System;
+//Programa fet per Miquel
+using System;
 
 namespace ConsoleApp3
 {
